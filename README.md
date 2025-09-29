@@ -4,6 +4,7 @@ Formula 1 project that combines Java with DB
 
 This project stores data about Formula1 - everything there is to come!
 You can add, remove, and view changes, as you wish.
+
 Used MySQLWorkbench for storing data
 
 output.csv records data commands.
