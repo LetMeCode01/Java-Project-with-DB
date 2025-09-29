@@ -1,0 +1,10 @@
+"id";"name";"salary";"nation";"experience";"specialty";"teamid";"number"
+1;"Lewis Hamilton";50000000;"UK";17;"";2;44
+2;"Charles Leclerc";24000000;"Monaco";7;"";2;16
+3;"Lando Norris";20000000;"UK";6;"";5;4
+4;"Oscar Piastri";2000000;"Australia";2;"";5;81
+5;"George Russell";8000000;"UK";6;"";4;63
+6;"Marco Rossi";80000;"";12;"Engine Specialist";2;0
+7;"James Smith";75000;"";8;"Aerodynamics";5;0
+8;"Hans Müller";85000;"";15;"Gearbox Technician";4;0
+10;"bob bob";2000;"";0;"Engineer";2;0
